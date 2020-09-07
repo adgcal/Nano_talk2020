@@ -6,3 +6,5 @@
 - It will be sufficient for you to see the talk by the **my_nano_talk.pdf** file 
 - You can also see the abstract of the talk in the file **hitchhiker.pdf**
 -  In case any of you want to edit a slide you may change the PNG graphics file and mailing me the same (without changing the names). 
+- Did not include works of Post Docs (e.g. Dibakar Sau,Tapas Mitra ), Dibakar has done a wonder ful work on nano-dection of pesticides  
+- Did not inlude workks of students partly supervised by me (e.g.Jayeeta Sengupta);she has done a commendable jobon nanotoxicology.
